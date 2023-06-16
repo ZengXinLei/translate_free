@@ -14,7 +14,9 @@
 
 
 
-搭配这个插件，https://hcfy.app/，整页翻译，效果嘎嘎好
+搭配这个插件，https://hcfy.app/
+
+整页翻译，效果嘎嘎好
 
 ![image-20230616171847685](https://gitee.com/Zxl99/img/raw/master/picgo/202306161718813.png)
 
